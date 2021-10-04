@@ -47,12 +47,58 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  
+  if (license == "") {
+    return "";
+  } else {
+    return `## License
+    This project is covered under the ${license} license. Visit the following link for more information on this license: [${license}]${renderLicenseLink(license)}`;
+  };
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+  ${renderLicenseBadged(data.license)}${renderLicenseLink(data.license)}
+
+  ## Description
+  ${data.description}
+
+  ## Table of Contents
+
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+
+  ## Installation
+
+  To install necessary dependencies, please run the following command:
+  \' \' \'
+  ${data.installation}
+  \' \' \'
+
+  # Usage
+  ${data.usage}
+  ${renderLicenseSection(data.license)}
+
+  ## Contributing
+  ${data.contributing}
+  
+  ## Tests
+  To test, please run the following command;
+  \' \' \'
+
+  ## Questions
+  For any questions about the project, please contact me by either of the following links:
+
+  * Email = ${data.email}
+
+  or visit my GitHub profile:
+
+  *GitHub - ${"[" + data.github + "]" + "(https://github.com/" + data.github + ")"}
 
 `;
 }
