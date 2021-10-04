@@ -45,18 +45,6 @@ const userInput = [
             return "Please enter a valid email address!";
         },
     },
-    // Project name
-    {
-        type: 'input',
-        name: 'project name',
-        message: "What is the name of your project?",
-    },
-    // Description of Project
-    {
-        type:'input',
-        name: 'description',
-        message: "Please write a short description of your project?",
-    },
     // License for Project
     {
         type: 'list',
