@@ -1,6 +1,6 @@
 # Cktestakis
 
-  undefinedundefined
+  [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
   undefined
@@ -19,13 +19,13 @@
 
   To install necessary dependencies, please run the following command:
   ' ' '
-  Description, Badges, Visuals, Installation, Usage, Support, and Roadmap
+  Description, Badges, Visuals, Installation, Usage, Support, Roadmap, Contributing, Authors and acknowlegment
   ' ' '
 
   # Usage
-  To create a Professional README for the user
+  This project is to help users create a professional README.md
   ## License
-    This project is covered under the APACHE 2,0 license. Visit the following link for more information on this license: [APACHE 2,0]undefined
+    This project is covered under the MIT license. Visit the following link for more information on this license: [MIT](https://opensource.org/licenses/MIT)
 
   ## Contributing
   undefined
