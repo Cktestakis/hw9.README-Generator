@@ -99,7 +99,7 @@ function generateMarkdown(data) {
 
   or visit my GitHub profile:
 
-  *GitHub - ${"[" + data.github + "]" + "(https://github.com/" + data.github + ")"}
+  * GitHub - ${"[" + data.github + "]" + "(https://github.com/" + data.github + ")"}
 
 `;
 }

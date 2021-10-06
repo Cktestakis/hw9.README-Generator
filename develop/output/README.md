@@ -1,4 +1,4 @@
-# Cktestakis
+# README Generator
 
   [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -19,11 +19,11 @@
 
   To install necessary dependencies, please run the following command:
   ' ' '
-  Description, Badges, Visuals, Installation, Usage, Support, Roadmap, Contributing, Authors and acknowlegment
+  Description, Badges, Visuals, Installation, Usage, Support, Roadmap, Contributing, Authors and achnowlegment
   ' ' '
 
   # Usage
-  This project is to help users create a professional README.md
+  Create a more Professional README
   ## License
     This project is covered under the MIT license. Visit the following link for more information on this license: [MIT](https://opensource.org/licenses/MIT)
 
@@ -41,5 +41,5 @@
 
   or visit my GitHub profile:
 
-  *GitHub - [undefined](https://github.com/undefined)
+  * GitHub - [Cktestakis](https://github.com/Cktestakis)
 
