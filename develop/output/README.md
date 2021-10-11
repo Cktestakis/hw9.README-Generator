@@ -19,11 +19,11 @@
 
   To install necessary dependencies, please run the following command:
   ' ' '
-  Description, Badges, Visuals, Installation, Usage, Support, Roadmap, Contributing, Authors and achnowlegment
+  Description, Badgtes, Visuals, Installation, Usage, Support and Roadmap
   ' ' '
 
   # Usage
-  Create a more Professional README
+  Helps Users to create a Professional README
   ## License
     This project is covered under the MIT license. Visit the following link for more information on this license: [MIT](https://opensource.org/licenses/MIT)
 
