@@ -38,6 +38,7 @@ Here are some guidelines to help you get started:
 
 Click [here](https://watch.screencastify.com/v/ZZrKtuRUOuzT007cEQud) for a video demonstration of the applications functionality. 
 
-README Output
 
+README Output
+![Screenshot (3)](https://user-images.githubusercontent.com/64503311/136867641-278802e2-521f-4dc7-91fb-37ebf177bf93.png)
 
